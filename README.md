@@ -1,14 +1,5 @@
-# App name
+# Woocommerce Zendesk Auto Order Info
 
-[brief description of the app]
+This App will automatically show customer's order info to ticket by woocommerce order API search customer's email
 
-### The following information is displayed:
-
-* info1
-* info2
-* info3
-
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
-
-### Screenshot(s):
-[put your screenshots down here.]
+If customer's email not found, you can easily manual search order number, order id or anything to quickly find customer's orders
