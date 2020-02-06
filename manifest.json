@@ -1,0 +1,38 @@
+{
+  "name": "Woocommerce Orders",
+  "author": {
+    "name": "DuyLD",
+    "email": "duyld.dev@gmail.com",
+    "url": ""
+  },
+  "parameters": [
+    {
+      "name": "url",
+      "type": "text",
+      "required": true,
+      "secure": false,
+      "default": "https://wordpress.com"
+    },
+    {
+      "name": "key",
+      "type": "text",
+      "required": true,
+      "secure": true
+    },
+    {
+      "name": "secret",
+      "type": "text",
+      "required": true,
+      "secure": true
+    }
+  ],
+  "defaultLocale": "en",
+  "private": false,
+  "location": {
+    "support": {
+      "ticket_sidebar": "assets/iframe.html"
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}
